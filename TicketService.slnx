@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/TicketService.Api/Ticketservice.Api.csproj" />
+    <Project Path="src/TicketService.Api/Ticketservice.Api.csproj" DisplayName="TicketService.Api" />
     <Project Path="src/TicketService.Application/TicketService.Application.csproj" />
     <Project Path="src/TicketService.Domain/TicketService.Domain.csproj" />
     <Project Path="src/TicketService.Infrastructure/TicketService.Infrastructure.csproj" />

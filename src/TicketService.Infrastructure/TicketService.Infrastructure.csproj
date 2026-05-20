@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Ticketservice.Application\Ticketservice.Application.csproj" />
+    <ProjectReference Include="..\TicketService.Application\TicketService.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>
