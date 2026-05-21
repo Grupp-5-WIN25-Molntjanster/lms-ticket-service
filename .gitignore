@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/src/TicketService.Api/appsettings.json
+/src/TicketService.Api/appsettings.Development.json
